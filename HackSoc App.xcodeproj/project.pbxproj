@@ -14,6 +14,7 @@
 		4DB822AF1A94FED00092AF1A /* HackSoc_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB822AE1A94FED00092AF1A /* HackSoc_AppTests.swift */; };
 		4DB822BA1A94FF460092AF1A /* BlogPostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB822B81A94FF460092AF1A /* BlogPostViewController.swift */; };
 		4DB822BB1A94FF460092AF1A /* BlogPostViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4DB822B91A94FF460092AF1A /* BlogPostViewController.xib */; };
+		4DB822BD1A9501D30092AF1A /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB822BC1A9501D30092AF1A /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		4DB822AE1A94FED00092AF1A /* HackSoc_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackSoc_AppTests.swift; sourceTree = "<group>"; };
 		4DB822B81A94FF460092AF1A /* BlogPostViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlogPostViewController.swift; sourceTree = "<group>"; };
 		4DB822B91A94FF460092AF1A /* BlogPostViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BlogPostViewController.xib; sourceTree = "<group>"; };
+		4DB822BC1A9501D30092AF1A /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				4DB822981A94FED00092AF1A /* AppDelegate.swift */,
 				4DB822B81A94FF460092AF1A /* BlogPostViewController.swift */,
+				4DB822BC1A9501D30092AF1A /* SwiftyJSON.swift */,
 				4DB822B91A94FF460092AF1A /* BlogPostViewController.xib */,
 				4DB8229A1A94FED00092AF1A /* ViewsManager.swift */,
 				4DB8229F1A94FED00092AF1A /* Images.xcassets */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DB8229B1A94FED00092AF1A /* ViewsManager.swift in Sources */,
+				4DB822BD1A9501D30092AF1A /* SwiftyJSON.swift in Sources */,
 				4DB822BA1A94FF460092AF1A /* BlogPostViewController.swift in Sources */,
 				4DB822991A94FED00092AF1A /* AppDelegate.swift in Sources */,
 			);
